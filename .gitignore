@@ -25,3 +25,4 @@ hs_err_pid*
 # dependencies
 backend/node_modules
 frontend/node_modules
+node_modules
