@@ -15,3 +15,7 @@ rpm start
 npm i
 npm start
 ```
+
+# Browser
+> Acessar o projeto pelo navegador
+`http://localhost:4200`
