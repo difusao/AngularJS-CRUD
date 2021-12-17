@@ -17,5 +17,4 @@ npm start
 ```
 
 # Browser
-> Acessar o projeto pelo navegador
-`http://localhost:4200`
+> Acessar o projeto pelo navegador em `http://localhost:4200`
